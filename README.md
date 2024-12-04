@@ -1,7 +1,7 @@
 hi im rb ryan
 
 i make things like:
-- random [webpages](https://rbryanyt.github.io/)
+- random [webpages](https://rbryan.me)
 - terraria mods
 - some games
 
